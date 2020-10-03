@@ -1,0 +1,10 @@
+- ce logiciel permet de pouvoir lancer le cmd de windows en tappant simplement la commande : adm 
+dans le terminal de windows , il vous ouvre automatiquement un terminal administrateur dans le répertoire ou vous
+vous situiez 
+- le code en python
+
+- The software allows you to launch the windows cmd by simply typing the command: adm
+in the windows terminal, it automatically opens an administrator terminal in the directory where you
+you located
+
+- source code in python
